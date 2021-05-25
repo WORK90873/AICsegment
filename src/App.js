@@ -94,7 +94,7 @@ function App() {
                 style={{
                     position: "relative",
                     display: "block",
-                    height: "700px",
+                    height: "900px",
                 }}
             >
                 <img
@@ -102,6 +102,8 @@ function App() {
                     style={{
                         position: "absolute",
                         width: "100%",
+                        minWidth: "800px",
+                        minHeight: "800px",
                         height: "100%",
                         objectFit: "cover",
                         zIndex: "-10",
@@ -112,8 +114,8 @@ function App() {
                     style={{
                         zIndex: "100",
                         position: "absolute",
-                        top: "500px",
-                        left: "200px",
+                        top: "75%",
+                        left: "30%",
                         fontFamily: "cursive",
                     }}
                 >
@@ -123,13 +125,13 @@ function App() {
                     style={{
                         zIndex: "100",
                         position: "absolute",
-                        top: "600px",
-                        left: "500px",
+                        top: "85%",
+                        left: "40%",
                     }}
                     className="btn btn-info"
                     onClick={() =>
                         window.scrollTo({
-                            top: 711,
+                            top: 914.9166870117188,
                             behavior: "smooth",
                         })
                     }

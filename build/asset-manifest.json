@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8b374ed.chunk.css",
-    "main.js": "/static/js/main.468e830f.chunk.js",
-    "main.js.map": "/static/js/main.468e830f.chunk.js.map",
+    "main.css": "/static/css/main.ba9fc9a3.chunk.css",
+    "main.js": "/static/js/main.34d3a107.chunk.js",
+    "main.js.map": "/static/js/main.34d3a107.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.178f713b.js",
     "runtime-main.js.map": "/static/js/runtime-main.178f713b.js.map",
     "static/js/2.cd210612.chunk.js": "/static/js/2.cd210612.chunk.js",
     "static/js/2.cd210612.chunk.js.map": "/static/js/2.cd210612.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e8b374ed.chunk.css.map": "/static/css/main.e8b374ed.chunk.css.map",
+    "static/css/main.ba9fc9a3.chunk.css.map": "/static/css/main.ba9fc9a3.chunk.css.map",
     "static/js/2.cd210612.chunk.js.LICENSE.txt": "/static/js/2.cd210612.chunk.js.LICENSE.txt",
     "static/media/NONONO.ba2e0118.webp": "/static/media/NONONO.ba2e0118.webp",
     "static/media/NOjerry.5ea1a4fc.gif": "/static/media/NOjerry.5ea1a4fc.gif",
@@ -49,7 +49,7 @@
   "entrypoints": [
     "static/js/runtime-main.178f713b.js",
     "static/js/2.cd210612.chunk.js",
-    "static/css/main.e8b374ed.chunk.css",
-    "static/js/main.468e830f.chunk.js"
+    "static/css/main.ba9fc9a3.chunk.css",
+    "static/js/main.34d3a107.chunk.js"
   ]
 }
